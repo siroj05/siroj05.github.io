@@ -39,3 +39,14 @@
 .btn:hover{
     background-color: #ffffff;
 }
+
+.jumbotron .display-4{
+    font-size: 40px;
+}
+
+
+@media (min-width: 576px) { 
+    .jumbotron .display-4{
+        font-size: 60px;
+    }
+}
